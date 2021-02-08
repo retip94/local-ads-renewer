@@ -17,7 +17,7 @@ App is available here (but one cannot use it without a subscription):
 
 https://odswiez.retip1994.usermd.net/
 
-[website-screenshot](http://cv.retip1994.usermd.net/wp-content/uploads/2021/02/renew-screen.png)
+![website-screenshot](http://cv.retip1994.usermd.net/wp-content/uploads/2021/02/renew-screen.png)
 
 
 
