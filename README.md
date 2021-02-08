@@ -19,6 +19,11 @@ https://odswiez.retip1994.usermd.net/
 
 ![website-screenshot](http://cv.retip1994.usermd.net/wp-content/uploads/2021/02/renew-screen.png)
 
+Adding/editing advertisement form view:
+
+![form-view](http://cv.retip1994.usermd.net/wp-content/uploads/2021/02/form-view.png)
+
+
 
 
 
